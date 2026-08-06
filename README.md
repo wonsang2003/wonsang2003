@@ -5,10 +5,10 @@ I test trading hypotheses and try very hard to kill them. Over six weeks I pre-r
 **Three survived.** My best backtest reached a Newey–West **t of 48** across thirteen consecutive
 profitable years — it filled zero of twenty live orders, and it is in the graveyard.
 
-**[kosdaq-research](https://github.com/wonsang2003/kosdaq-research)** — the machinery
-and the record. Estimators that decide whether a result is real, execution models that decide
-whether it is reachable, and a classified account of the ninety-five that failed. Runs offline
-with no credentials.
+**[kosdaq-research](https://github.com/wonsang2003/kosdaq-research)** — the machinery, the record,
+and the strategies still standing. Estimators that decide whether a result is real, execution
+models that decide whether it is reachable, and a classified account of the ninety-five that
+failed. The survivors trade KRX equities live; the repository runs offline with no credentials.
 
 **[ordinal-weather](https://github.com/wonsang2003/ordinal-weather)** — a survivor, running live.
 Daily-settled temperature brackets, where the edge is the market's pricing bias rather than a
