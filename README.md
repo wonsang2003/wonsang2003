@@ -1,4 +1,4 @@
-Independent quantitative research, Korean equity markets.
+Independent quantitative research — Korean equities and prediction markets.
 
 I test trading hypotheses and try very hard to kill them. Over six weeks I pre-registered about
 **98** across KRX equities, crypto arbitrage, Korea-stock perpetuals and prediction markets.
@@ -9,6 +9,14 @@ profitable years — it filled zero of twenty live orders, and it is in the grav
 and the record. Estimators that decide whether a result is real, execution models that decide
 whether it is reachable, and a classified account of the ninety-five that failed. Runs offline
 with no credentials.
+
+**[ordinal-weather](https://github.com/wonsang2003/ordinal-weather)** — a survivor, and the stack
+that runs it. Daily-settled temperature brackets, where the edge is the market's pricing bias
+rather than a forecast advantage: an ordinal error density with a Bayesian posterior,
+expected-log-growth sizing over mutually exclusive outcomes, and a drawdown governor with no
+absorbing states. Eleven causes of death, six autopsies of my own measurement, and the
+pre-committed condition under which the book is abandoned. Reproduces end to end on synthetic
+data — no credentials, no performance claims.
 
 What I spend my time on:
 
